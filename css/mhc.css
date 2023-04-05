@@ -1,0 +1,13 @@
+:root {
+    --color-logo-primary: #8D738D;
+    --color-logo-secondary: #9D8A6C;
+}
+
+
+.logo-bohn {
+    fill: var(--color-logo-primary);
+}
+
+.logo-physical {
+    fill: var(--color-logo-secondary);
+}
